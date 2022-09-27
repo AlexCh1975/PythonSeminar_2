@@ -16,3 +16,10 @@ print()
 
 for k in range(n):
     print(3 ** k * (-1) ** k, end=", ")
+print()
+
+# Вариант 3
+
+for k in range(n):
+    print((-3) ** k, end=", ")
+print()
